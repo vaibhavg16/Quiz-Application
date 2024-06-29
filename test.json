@@ -1,0 +1,218 @@
+{
+  "Computer" : [ null, {
+    "question" : "What does a Data Type in Java refers to?",
+            "option1" : "The place where data is stored",
+            "option2" : "The technique how data is retreived",
+            "option3" : "The type or variety of data being handled for reading and writing",
+            "option4" : "Compilation",
+            "answer" : "The type or variety of data being handled for reading and writing"
+  }, {
+    "question" : "Choose the wrong statement about Java programming?",
+            "option1" : "Java supports unsigned integers",
+            "option2" : "Java supports signed integers",
+            "option3" : "Java supports signed char",
+            "option4" : "1",
+            "answer" : "Java supports unsigned integers"
+  }, {
+    "question" : "Which data type among the following is an implementation of Objects or OOPs?",
+            "option1" : "byte",
+            "option2" : "INT",
+            "option3" : "Char",
+            "option4" : "None of the above",
+            "answer" : "None of the above"
+  }, {
+    "question" : "which among the following is not a Data Type in Java?",
+            "option1" : "short",
+            "option2" : "int",
+            "option3" : "long double",
+            "option4" : "double",
+            "answer" : "long double"
+  }, {
+   "question" : "Which among the following is not a valid Data Type in Java?",
+            "option1" : "long",
+            "option2" : "bool",
+            "option3" : "double",
+            "option4" : "float",
+            "answer" : "bool"
+  } ],
+  "Civil" : [ null, {
+    "question" : "What are the different types of Ad provided by AdMob in Thunkable?",
+            "option1" : "Screen Ad",
+            "option2" : "Rewarded Ad",
+            "option3" : "Panel Ad",
+            "option4" : "Compilation",
+            "answer" : "Screen Ad"
+  }, {
+    "question" : "How many rewarded Apps can be used in one application?",
+            "option1" : "1 per app",
+            "option2" : "1 per screen",
+            "option3" : "2 per app",
+            "option4" : "1",
+            "answer" : "1 per screen"
+  }, {
+    "question" : "Who is making the Web standards?",
+            "option1" : "WWW",
+            "option2" : "Microsoft",
+            "option3" : "Google",
+            "option4" : "WW",
+            "answer" : "WWW"
+  }, {
+    "question" : "Each list item in an ordered or unordered list has which tag?",
+            "option1" : "list tag",
+            "option2" : "ls tag",
+            "option3" : "li tag",
+            "option4" : "ol tag",
+            "answer" : "li tag"
+  }, {
+   "question" : "Which of the following tags are used for a multi-line text input control?",
+            "option1" : "textml tag",
+            "option2" : "text tag",
+            "option3" : "textarea tag",
+            "option4" : "Both b and c",
+            "answer" : "textarea tag"
+  } ],
+  "Mechanical" : [ null, {
+    "question" : "What are the different types of Ad provided by AdMob in Thunkable?",
+            "option1" : "Screen Ad",
+            "option2" : "Rewarded Ad",
+            "option3" : "Panel Ad",
+            "option4" : "Compilation",
+            "answer" : "Screen Ad"
+  }, {
+    "question" : "How many rewarded Apps can be used in one application?",
+            "option1" : "1 per app",
+            "option2" : "1 per screen",
+            "option3" : "2 per app",
+            "option4" : "1",
+            "answer" : "1 per screen"
+  }, {
+    "question" : "Who is making the Web standards?",
+            "option1" : "WWW",
+            "option2" : "Microsoft",
+            "option3" : "Google",
+            "option4" : "WW",
+            "answer" : "WWW"
+  }, {
+    "question" : "Each list item in an ordered or unordered list has which tag?",
+            "option1" : "list tag",
+            "option2" : "ls tag",
+            "option3" : "li tag",
+            "option4" : "ol tag",
+            "answer" : "li tag"
+  }, {
+   "question" : "Which of the following tags are used for a multi-line text input control?",
+            "option1" : "textml tag",
+            "option2" : "text tag",
+            "option3" : "textarea tag",
+            "option4" : "Both b and c",
+            "answer" : "textarea tag"
+  } ],
+  "Electronic" : [ null, {
+    "question" : "What are the different types of Ad provided by AdMob in Thunkable?",
+            "option1" : "Screen Ad",
+            "option2" : "Rewarded Ad",
+            "option3" : "Panel Ad",
+            "option4" : "Compilation",
+            "answer" : "Screen Ad"
+  }, {
+    "question" : "How many rewarded Apps can be used in one application?",
+            "option1" : "1 per app",
+            "option2" : "1 per screen",
+            "option3" : "2 per app",
+            "option4" : "1",
+            "answer" : "1 per screen"
+  }, {
+    "question" : "Who is making the Web standards?",
+            "option1" : "WWW",
+            "option2" : "Microsoft",
+            "option3" : "Google",
+            "option4" : "WW",
+            "answer" : "WWW"
+  }, {
+    "question" : "Each list item in an ordered or unordered list has which tag?",
+            "option1" : "list tag",
+            "option2" : "ls tag",
+            "option3" : "li tag",
+            "option4" : "ol tag",
+            "answer" : "li tag"
+  }, {
+   "question" : "Which of the following tags are used for a multi-line text input control?",
+            "option1" : "textml tag",
+            "option2" : "text tag",
+            "option3" : "textarea tag",
+            "option4" : "Both b and c",
+            "answer" : "textarea tag"
+  } ],
+  "Electrical" : [ null, {
+    "question" : "What are the different types of Ad provided by AdMob in Thunkable?",
+            "option1" : "Screen Ad",
+            "option2" : "Rewarded Ad",
+            "option3" : "Panel Ad",
+            "option4" : "Compilation",
+            "answer" : "Screen Ad"
+  }, {
+    "question" : "How many rewarded Apps can be used in one application?",
+            "option1" : "1 per app",
+            "option2" : "1 per screen",
+            "option3" : "2 per app",
+            "option4" : "1",
+            "answer" : "1 per screen"
+  }, {
+    "question" : "Who is making the Web standards?",
+            "option1" : "WWW",
+            "option2" : "Microsoft",
+            "option3" : "Google",
+            "option4" : "WW",
+            "answer" : "WWW"
+  }, {
+    "question" : "Each list item in an ordered or unordered list has which tag?",
+            "option1" : "list tag",
+            "option2" : "ls tag",
+            "option3" : "li tag",
+            "option4" : "ol tag",
+            "answer" : "li tag"
+  }, {
+   "question" : "Which of the following tags are used for a multi-line text input control?",
+            "option1" : "textml tag",
+            "option2" : "text tag",
+            "option3" : "textarea tag",
+            "option4" : "Both b and c",
+            "answer" : "textarea tag"
+  } ],
+   "IT" : [ null, {
+    "question" : "What are the different types of Ad provided by AdMob in Thunkable?",
+            "option1" : "Screen Ad",
+            "option2" : "Rewarded Ad",
+            "option3" : "Panel Ad",
+            "option4" : "Compilation",
+            "answer" : "Screen Ad"
+  }, {
+    "question" : "How many rewarded Apps can be used in one application?",
+            "option1" : "1 per app",
+            "option2" : "1 per screen",
+            "option3" : "2 per app",
+            "option4" : "1",
+            "answer" : "1 per screen"
+  }, {
+    "question" : "Who is making the Web standards?",
+            "option1" : "WWW",
+            "option2" : "Microsoft",
+            "option3" : "Google",
+            "option4" : "WW",
+            "answer" : "WWW"
+  }, {
+    "question" : "Each list item in an ordered or unordered list has which tag?",
+            "option1" : "list tag",
+            "option2" : "ls tag",
+            "option3" : "li tag",
+            "option4" : "ol tag",
+            "answer" : "li tag"
+  }, {
+   "question" : "Which of the following tags are used for a multi-line text input control?",
+            "option1" : "textml tag",
+            "option2" : "text tag",
+            "option3" : "textarea tag",
+            "option4" : "Both b and c",
+            "answer" : "textarea tag"
+  } ]
+}
